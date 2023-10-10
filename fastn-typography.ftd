@@ -1,17 +1,17 @@
--- import: <user_name>.github.io/<repo_name>
+-- import: sana149.github.io/fastnss
 
 
 
--- site-doc.doc-home: <repo_name> package
-site-title: `<repo_name>`
+-- site-doc.doc-home: fastnss package
+site-title: `fastnss`
 show-tabs: false
-github-url: <user_name>.github.io/<repo_name>
-current-package: <user_name>.github.io/<repo_name>
+github-url: sana149.github.io/fastnss
+current-package: sana149.github.io/fastnss
 
-Below are our default fastn `inherited` font types of <repo_name>.
+Below are our default fastn `inherited` font types of fastnss.
 
 -- display-type:
-types: $<repo_name>.types
+types: $fastnss.types
 
 
 -- end: site-doc.doc-home
